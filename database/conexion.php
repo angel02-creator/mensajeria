@@ -1,6 +1,6 @@
 <?php
 
-$host = "ftp-soto.alwaysdata.net";
+$host = "mysql-soto.alwaysdata.net";
 $usuario = "soto";
 $password = "clave1234";
 $base_datos = "mensajeria";
