@@ -2,8 +2,8 @@
 
 $host = "mysql-soto.alwaysdata.net";
 $usuario = "soto";
-$password = "Soto1234";
-$base_datos = "mensajeria";
+$password = "clase1234";
+$base_datos = "soto_mensajeria";
 
 $conn = new mysqli($host, $usuario, $password, $base_datos);
 
